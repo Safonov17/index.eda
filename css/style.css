@@ -217,4 +217,11 @@ body {
   background-image: url(../img/sweet-basket.png);
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
+}
+.minimal {
+  background-image: url(../img/minimal.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
